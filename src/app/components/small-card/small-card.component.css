@@ -12,6 +12,8 @@
     width: 200px;
     min-width: 200px;
     margin-right: 20px;
+    border-radius: 4px;
+    border: solid 1px antiquewhite;
 }
 
 .small__card__title {

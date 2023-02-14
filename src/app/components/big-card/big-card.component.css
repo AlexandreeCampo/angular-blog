@@ -26,6 +26,8 @@
 .big__card__photo > img {
     width: 100%;
     min-width: 400px;
+    border-radius: 4px;
+    border: solid 1px antiquewhite;
 }
 
 .a {
